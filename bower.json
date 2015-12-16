@@ -1,0 +1,29 @@
+{
+  "name": "angular-stroll",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gion/stroll.js",
+  "authors": [
+    "gion <bogdan.gradinariu@gmail.com>",
+    "hakimel <hakim.elhattab@gmail.com>"
+  ],
+  "description": "An angular directive that wraps the beauty of stroll.js (thanks, @hakimel !) to bring scroll effects to angular",
+  "dependencies": {
+    "angular": ">=1.3.0"
+  },
+  "main": ["js/angular-stroll.js", "css/stroll.css"],
+  "keywords": [
+    "stroll",
+    "angular",
+    "scroll",
+    "animation",
+    "effect"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
